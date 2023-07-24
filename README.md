@@ -1,0 +1,2 @@
+# ProiectSpital
+Practica IBM
